@@ -1,2 +1,2 @@
 # vaultWikiImages
-Images for github.com/UVicLibrary/Vault/wiki
+Images for https://github.com/UVicLibrary/Vault/wiki
